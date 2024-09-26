@@ -9,8 +9,8 @@ This repository provides a boilerplate for creating a web application using Next
 ## Installation
 ```bash
 $ npm install
-
-First, run the development server:
+```bash
+##First, run the development server: 
 
 npm run dev
 # or
