@@ -11,7 +11,8 @@ This repository provides a boilerplate for creating a web application using Next
 $ npm install
 ```bash
 ## First, run the development server: 
-
+```
+```bash
 $ npm run dev
 # or
 $ yarn dev
