@@ -1,10 +1,11 @@
+## Next.js Boilerplate
 <p align="center">
     <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="128">
 </p>
 
 This repository provides a boilerplate for creating a web application using Next.js 14, including support for Redux and i18n.
 
-## Next.js Boilerplate
+
 
 ## Installation
 ```bash
