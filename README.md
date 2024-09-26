@@ -1,7 +1,5 @@
+<h1 align="center">Next.js Boilerplate</h1>
 
-<p align="center">
-## Next.js Boilerplate
-</p>
 <p align="center">
     <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="128">
 </p>
