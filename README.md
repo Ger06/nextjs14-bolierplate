@@ -7,18 +7,18 @@ This repository provides a boilerplate for creating a web application using Next
 ## Next.js Boilerplate
 
 ## Installation
-```bash
+
 $ npm install
 ```bash
-##First, run the development server: 
+## First, run the development server: 
 
-npm run dev
+$ npm run dev
 # or
-yarn dev
+$ yarn dev
 # or
-pnpm dev
+$ pnpm dev
 # or
-bun dev
+$ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
