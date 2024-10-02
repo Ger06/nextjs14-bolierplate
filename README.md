@@ -38,3 +38,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Requirements
 
 - Node.js version 20 or higher.
+.
